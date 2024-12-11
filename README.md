@@ -271,4 +271,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to:
 
 - **Project Maintainer:** Kyle Thorsen
 - **GitHub Issues:** [Report a Bug](https://github.com/thorsenk/rffl-codex-espn/issues)
-- **Email:** [thorsenk@gmail.com](mailto:thorsenk@gmail.com)
+- **Email:** [147131161+thorsenk@users.noreply.github.com](mailto:147131161+thorsenk@users.noreply.github.com)
