@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/github/actions/workflow/status/thorsenk/rffl-codex-espn/ci.yml?branch=main)](https://github.com/thorsenk/rffl-codex-espn/actions)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-A comprehensive data extraction and analysis tool for the Redneck Fantasy Football League (RFFL) using ESPN's Fantasy Football API. This project provides tools for historical data collection, analysis, and insights generation.
+A comprehensive data extraction and analysis tool for using ESPN's Fantasy Football API. This project provides tools for historical data collection, analysis, and insights generation.
 
 ## Table of Contents
 - [RFFL Codex ESPN](#rffl-codex-espn)
